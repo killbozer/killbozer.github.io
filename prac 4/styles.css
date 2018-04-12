@@ -1,0 +1,65 @@
+.flex-container 
+	{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-content: space-around;
+	}
+
+.flex-child1 
+	{
+	order: 0;
+	flex: 0 1 auto;
+	align-self: auto;
+	margin: 8px;
+	}
+
+.flex-child2 
+	{
+	order: 0;
+	flex: 0 1 auto;
+	align-self: auto;
+	margin: 8px;
+	}
+
+
+.card 
+	{
+	box-shadow: 0 4px 8px #333333;
+	}
+
+img 
+	{
+	border-radius: 2px 2px;
+	width: 100%;
+	height: auto;
+	}
+
+.container 
+	{
+	padding: 8px;
+	}
+
+.card
+	{
+	width: 420px;
+	height: auto;
+	}
+
+p	
+	{
+	font-size: 0.875rem;
+	}
+
+.title	
+	{
+	font-size: 1.00rem;
+	font-weight: bold;
+	}
+th
+	{
+	font-weight: normal;
+	}
+
+
