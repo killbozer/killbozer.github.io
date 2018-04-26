@@ -28,7 +28,7 @@ The code below checks to see if the user has clicked on a item with the class dr
 Then it checks to see if there are any classes that are called droppedMenu
 If the button has been clicked, then it adds the show class to the end of the class name
 Else when the user clicks away from the button it removes show from the droppedMenu class 
-*\
+*/
 
 window.onclick = function(event) {
   if (!event.target.matches('.dropButton')) {
