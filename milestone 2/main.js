@@ -1,4 +1,3 @@
-
 // Checks for the number given to the function called within the html
 
 function dropFunction(num) {
